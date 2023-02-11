@@ -1,6 +1,6 @@
-I go by many names, MistOfJudgement, RealEnderCreeper, MTGonPC, but you can call me Tushar.
+I go by many usernames, MistOfJudgement, SharpMist, RealEnderCreeper, MTGonPC, but you can call me Tushar.
 I am currently an undergraduate at GMU studying Computer Science
-You can contact me via mistofjudgement@gmail.com
+You can contact me via tusharrangaswamy@gmail.com
 Most of the projects I have are personal projects without plans to update in the future.
 I don't take issue with forking repos I have because I don't plan on accepting pull requests.
 <!---
